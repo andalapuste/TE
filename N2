@@ -1,7 +1,11 @@
 <html>
 <body>
 <h>
-Heeey
+<<<<<<< HEAD
+Heeey,how are you 
+=======
+Heeeyaaaa
+>>>>>>> b1ca514d63f46c2b04e30bb8833921c521c2890b
 </h>
 </body>
 </html>
